@@ -1,5 +1,5 @@
 # Calendar
-> A native javascript plugin that provides multiple choice.
+> A native javascript plugin that provides multiple choice by holding down the shift key.
 
  ## Usage
   - Add a dom to the document like `<div id="calender" class="calender"></div>`
@@ -10,6 +10,7 @@
     * ` var Calendar = new InitCalendar();` 
     * `Calendar.init(document.getElementById('calender'),{rangeMonth: 3 });`
   - The rangeMonth parameter means future several months that can be choosed.
+  - When all the above have been done, you can try to hold down the shift key for multiple selection.
 ## Preview
  [Calendar](https://jsfiddle.net/douglasvegas/5fL5af9o/)
 ## Tips
