@@ -15,5 +15,5 @@
  [Calendar](https://jsfiddle.net/douglasvegas/5fL5af9o/)
 ## Tips
 
-This is just written for  company work, so the function may by too simple.But it let you get rid of using the huge JQuery-Ui and also 
+This is just written for  company work, so the function may be too simple.But it let you get rid of using the huge JQuery-Ui and also 
 you can expand the function by yourself easily.
